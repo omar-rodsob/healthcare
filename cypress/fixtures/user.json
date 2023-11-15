@@ -1,0 +1,9 @@
+{
+    "firstName": "Omar",
+    "lastName":"Rodriguez Soberanes",
+    "email": "omar.rodsob@gmail.com",
+    "phone": "6621393007",
+    "cLetter":"This job application was fully automated with cypress, you can check the code in the following git repository: https://github.com/omar-rodsob/healthcare",
+    "location":"Guadalajara, Mexico",
+    "salaryD":"70,000"
+  }
